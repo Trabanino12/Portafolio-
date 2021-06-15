@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Fiesta en mi casa</title>
+        <style>
+           h1 {
+                background-color: rgb(0, 255, 42);
+                color:rgb(0, 0, 0);
+
+            }  
+            h2 {
+
+                color:rgb(0, 255, 42);
+
+            }  
+            p {
+                color:red   
+            }
+            thead {
+                color:rgb(251, 255, 0)
+            }
+            body {
+                font-family: cursive;
+            }
+            .red-frame {
+                border: 8px double rgb(83, 226, 16);
+                }
+            table{
+                border-color: rgb(0, 255, 42);
+            }
+            a{
+                color: rgb(0, 255, 42);
+            }
+
+        </style>
+    </head>
+    <body>
+        <body background="Portafolio de aprendizaje Lab 2/banner-festivo-signo-carnaval-fiesta-cumpleanos-evento-divertido_220217-95.jpg">
+        <img class="red-frame"src="Portafolio de aprendizaje Lab 2/9948325f2bfb6ca4827bfd66fd0f15dd.jpg">
+       
+        <h1>¡Estás invitado!</h1>
+        <h2>¡A esta super fiesta!</h2>
+        
+        <h3><p>Los detalles:</p></h3>
+        
+        <table border="5" align center>
+            <thead>
+                <h4>
+                <tr>
+                    <td>Lugar</td>
+                    <td>Mi casa</td>
+                </tr>
+                <tr>
+                    <td>Hora</td>
+                    <td>3:00 PM</td>
+                </tr>
+                <tr>
+                    <td>Dia</td>
+                    <td>Viernes 18 de junio</td>
+                </tr>
+                <p><em><a href="https://web.whatsapp.com/"> Confirma tu asistencia </a></em></p> </h4>
+            </h4>
+           <h4>
+            
+            <a class="boton_personalizado" href="https://web.whatsapp.com">Si</a>
+
+            <a class="boton_personalizado" href="https://plantillasdememes.com/plantilla/tu-no-eres-mi-amigo">No</a>
+    </body>
+</html>
