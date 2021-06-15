@@ -32,7 +32,42 @@
             a{
                 color: rgb(0, 255, 42);
             }
-
+            .boton_personalizado{
+    text-decoration: none;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: helvetica;
+    font-weight: 300;
+    font-size: 25px;
+    font-style: italic;
+    color: #000000;
+    background-color: #00da0f;
+    border-radius: 15px;
+    border: 3px double #006505;
+  }
+  .boton_personalizado:hover{
+    opacity: 0.6;
+    text-decoration: none;
+  }
+  .boton_personalizado2{
+    text-decoration: none;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: helvetica;
+    font-weight: 300;
+    font-size: 25px;
+    font-style: italic;
+    color: #000000;
+    background-color: #9b0404;
+    border-radius: 15px;
+    border: 3px double #d60606;
+  }
+  .boton_personalizado2:hover{
+    opacity: 0.6;
+    text-decoration: none;
+  }
         </style>
     </head>
     <body>
@@ -65,6 +100,6 @@
             
             <a class="boton_personalizado" href="https://web.whatsapp.com">Si</a>
 
-            <a class="boton_personalizado" href="https://plantillasdememes.com/plantilla/tu-no-eres-mi-amigo">No</a>
+            <a class="boton_personalizado2" href="https://plantillasdememes.com/plantilla/tu-no-eres-mi-amigo">No</a>
     </body>
 </html>
